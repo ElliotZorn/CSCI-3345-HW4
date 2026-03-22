@@ -1,0 +1,1 @@
+I used typescript and tailwincss. desktop uses basic vite+react, mobile uses react-native-expo.

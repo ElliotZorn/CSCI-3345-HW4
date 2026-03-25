@@ -26,7 +26,7 @@ export default function Header() {
                     >
                         <Link
                             onClick={() => setActiveTab("personal")}
-                            to="/personal" className="text-lg font-medium">
+                            to="/" className="text-lg font-medium">
                             Personal
                         </Link>
                     </div>

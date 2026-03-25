@@ -1,1 +1,1 @@
-I used typescript and tailwincss. desktop uses basic vite+react, mobile uses react-native-expo.
+I used typescript and tailwindcss. desktop uses basic vite+react, mobile uses react-native-expo.
